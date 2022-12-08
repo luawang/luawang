@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luawang
-- 👀 I’m interested in Java, C/C++, Javascript, Rust, Python...
+- 👀 I’m interested in Java, C/C++, Javascript, Go, Rust, Python...
 - 🌱 I’m currently learning Java stuff
 
 
